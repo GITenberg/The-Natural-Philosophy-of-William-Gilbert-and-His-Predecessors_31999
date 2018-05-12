@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35609'
     url: http://www.gutenberg.org/2009/agents/35609
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31999#The-Natural-Philosophy-of-William-Gilbert-and-His-Predecessors
 gutenberg_issued: '2010-04-15'
 gutenberg_type: Text
 identifiers:
