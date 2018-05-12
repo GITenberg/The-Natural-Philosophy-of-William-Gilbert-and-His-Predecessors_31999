@@ -1,0 +1,28 @@
+_repo: The-Natural-Philosophy-of-William-Gilbert-and-His-Predecessors_31999
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, W. James (William James)
+    alias: King, William James
+    birthdate: 1915
+    gutenberg_agent_id: '35609'
+    url: http://www.gutenberg.org/2009/agents/35609
+description: ''
+gutenberg_issued: '2010-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Contributions from the Museum of History and Technology, Paper 8
+subjects:
+- !lcc 'QC'
+- !lcsh 'Gilbert, William, 1544-1603'
+- !lcsh 'Magnetism -- History'
+title: The Natural Philosophy of William Gilbert and His Predecessors
+url: http://www.gutenberg.org/ebooks/31999
